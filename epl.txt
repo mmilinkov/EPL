@@ -1,4 +1,4 @@
-Eclipse Public License - v 1.0
+Eclipse Public License - v 2.0
 
 THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS ECLIPSE
 PUBLIC LICENSE ("AGREEMENT"). ANY USE, REPRODUCTION OR
@@ -20,9 +20,9 @@ originate from and are distributed by that particular Contributor. A
 Contribution 'originates' from a Contributor if it was added to the
 Program by such Contributor itself or anyone acting on such
 Contributor's behalf. Contributions do not include additions to the
-Program which: (i) are separate modules of software distributed in
+Program which: (i) are separate files of software distributed in
 conjunction with the Program under their own license agreement, and (ii)
-are not derivative works of the Program.
+are not Derivative Works of the Program.
 
 "Contributor" means any person or entity that distributes
 the Program.
@@ -37,13 +37,21 @@ with this Agreement.
 "Recipient" means anyone who receives the Program under
 this Agreement, including all Contributors.
 
+"Derivative Works" shall mean any work, whether in Source or 
+Object form, that is based on (or derived from) the Program and for which 
+the editorial revisions, annotations, elaborations, or other modifications 
+represent, as a whole, an original work of authorship. For the purposes of 
+this Agreement, Derivative Works shall not include works that remain 
+separable from, or merely link (or bind by name) to the interfaces of, or 
+subclass the Program and Derivative Works thereof.
+
 2. GRANT OF RIGHTS
 
 a) Subject to the terms of this Agreement, each
 Contributor hereby grants Recipient a non-exclusive, worldwide,
-royalty-free copyright license to reproduce, prepare derivative works
+royalty-free copyright license to reproduce, prepare Derivative Works
 of, publicly display, publicly perform, distribute and sublicense the
-Contribution of such Contributor, if any, and such derivative works, in
+Contribution of such Contributor, if any, and such Derivative Works, in
 source code and object code form.
 
 b) Subject to the terms of this Agreement, each
@@ -221,9 +229,3 @@ rights or licenses to the intellectual property of any Contributor under
 this Agreement, whether expressly, by implication, estoppel or
 otherwise. All rights in the Program not expressly granted under this
 Agreement are reserved.
-
-This Agreement is governed by the laws of the State of New York and
-the intellectual property laws of the United States of America. No party
-to this Agreement will bring a legal action under this Agreement more
-than one year after the cause of action arose. Each party waives its
-rights to a jury trial in any resulting litigation.
